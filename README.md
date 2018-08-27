@@ -1,2 +1,3 @@
 # os-specific-electron
-The code for the blog post
+
+The code for the blog post.
