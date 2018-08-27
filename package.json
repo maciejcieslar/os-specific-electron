@@ -1,0 +1,20 @@
+{
+  "name": "os-specific-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "dev": "nodemon -e js --exec \"npm run start\"",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "maciejcieslar",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {}
+}
