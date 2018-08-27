@@ -20,4 +20,4 @@ const getHomePath = byOS({
 
 const homePath = getHomePath('maciejcieslar');
 
-console.log(homePath);
+console.log(homePath); // -> /Users/maciejcieslar
